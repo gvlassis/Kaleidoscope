@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Kaleidoscope:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dfd0935c-bedc-474b-94a2-81aa85987d45" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jmLnXagmzc9vpJq3uetgyCZEFY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\George Vlassis\IdeaProjects\Kaleidoscope\res\snd" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\George Vlassis\IdeaProjects\Kaleidoscope\res\font" />
+      <recent name="C:\Users\George Vlassis\IdeaProjects\Kaleidoscope\res\img" />
+      <recent name="C:\Users\George Vlassis\IdeaProjects\Kaleidoscope\res\snd" />
+      <recent name="C:\Users\George Vlassis\IdeaProjects\Kaleidoscope\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Kaleidoscope" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="962" y="359" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604412754402">
+      <screen x="0" y="0" width="2752" height="1152" />
+    </state>
+    <state x="962" y="359" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2752.1152@0.0.2752.1152" timestamp="1604412754402" />
+    <state x="1041" y="315" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604404878843">
+      <screen x="0" y="0" width="2752" height="1152" />
+    </state>
+    <state x="1041" y="315" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2752.1152@0.0.2752.1152" timestamp="1604404878843" />
+    <state x="1104" y="254" key="FileChooserDialogImpl" timestamp="1607210232082">
+      <screen x="0" y="0" width="2752" height="1152" />
+    </state>
+    <state x="1104" y="254" key="FileChooserDialogImpl/0.0.2752.1152@0.0.2752.1152" timestamp="1607210232082" />
+    <state width="2752" height="312" key="GridCell.Tab.0.bottom" timestamp="1605395229238">
+      <screen x="0" y="0" width="2752" height="1152" />
+    </state>
+    <state width="2752" height="312" key="GridCell.Tab.0.bottom/0.0.2752.1152@0.0.2752.1152" timestamp="1605395229238" />
+    <state width="2752" height="312" key="GridCell.Tab.0.center" timestamp="1605395229238">
+      <screen x="0" y="0" width="2752" height="1152" />
+    </state>
+    <state width="2752" height="312" key="GridCell.Tab.0.center/0.0.2752.1152@0.0.2752.1152" timestamp="1605395229238" />
+    <state width="2752" height="312" key="GridCell.Tab.0.left" timestamp="1605395229238">
+      <screen x="0" y="0" width="2752" height="1152" />
+    </state>
+    <state width="2752" height="312" key="GridCell.Tab.0.left/0.0.2752.1152@0.0.2752.1152" timestamp="1605395229238" />
+    <state width="2752" height="312" key="GridCell.Tab.0.right" timestamp="1605395229238">
+      <screen x="0" y="0" width="2752" height="1152" />
+    </state>
+    <state width="2752" height="312" key="GridCell.Tab.0.right/0.0.2752.1152@0.0.2752.1152" timestamp="1605395229238" />
+    <state width="2752" height="386" key="GridCell.Tab.1.bottom" timestamp="1604513355308">
+      <screen x="0" y="0" width="2752" height="1152" />
+    </state>
+    <state width="2752" height="386" key="GridCell.Tab.1.bottom/0.0.2752.1152@0.0.2752.1152" timestamp="1604513355308" />
+    <state width="2752" height="386" key="GridCell.Tab.1.center" timestamp="1604513355308">
+      <screen x="0" y="0" width="2752" height="1152" />
+    </state>
+    <state width="2752" height="386" key="GridCell.Tab.1.center/0.0.2752.1152@0.0.2752.1152" timestamp="1604513355308" />
+    <state width="2752" height="386" key="GridCell.Tab.1.left" timestamp="1604513355308">
+      <screen x="0" y="0" width="2752" height="1152" />
+    </state>
+    <state width="2752" height="386" key="GridCell.Tab.1.left/0.0.2752.1152@0.0.2752.1152" timestamp="1604513355308" />
+    <state width="2752" height="386" key="GridCell.Tab.1.right" timestamp="1604513355308">
+      <screen x="0" y="0" width="2752" height="1152" />
+    </state>
+    <state width="2752" height="386" key="GridCell.Tab.1.right/0.0.2752.1152@0.0.2752.1152" timestamp="1604513355308" />
+    <state x="729" y="46" key="SettingsEditor" timestamp="1604404907790">
+      <screen x="0" y="0" width="2752" height="1152" />
+    </state>
+    <state x="729" y="46" key="SettingsEditor/0.0.2752.1152@0.0.2752.1152" timestamp="1604404907790" />
+    <state x="1011" y="107" key="new project wizard" timestamp="1604513355240">
+      <screen x="0" y="0" width="2752" height="1152" />
+    </state>
+    <state x="1011" y="107" key="new project wizard/0.0.2752.1152@0.0.2752.1152" timestamp="1604513355240" />
+  </component>
+</project>
